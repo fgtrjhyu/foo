@@ -17,5 +17,5 @@ git push -u origin main
 ## https
 git add remote origin https://github.com/fgtrjhyu/foo.git
 git push -u origin main
-_username_ your "username"
+_username_ your github.com's username
 _password_ your *access token*
